@@ -1,0 +1,9 @@
+# Build output and environment
+.buildenv/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Default output folder when running from source
+CHD/
